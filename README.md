@@ -20,27 +20,12 @@ I am **Diyaa** (aka **dhad**), a creative developer and content creator driven b
 | **Indie Game Library** | Collection of game jam entries and prototypes developed in Unity/Godot/UPBGE. | [Play on Itch.io](https://daz7.itch.io/) |
 | **Linux Adventures** | Documenting the process of building and customizing Arch Linux from scratch. | [See About Page](about.html) |
 
-## 🔗 How to Explore This Portfolio
-
-| Page | Description |
-| :--- | :--- |
-| **Home (`index.html`)** | Quick professional summary and featured work highlights. |
-| **Projects (`projects.html`)** | Comprehensive list of videos, applications, games, and code experiments. |
-| **About (`about.html`)** | A detailed chronological story of my journey, development philosophy, and core motivations. |
-| **Contact (`contact.html`)** | Direct links to my professional and social channels. |
-
----
-
 ## ✉️ Connect with Me
 
 * **GitHub:** [Diyaa-AKA-dhad](https://github.com/Diyaa-AKA-dhad)
 * **YouTube:** [@dhad](https://www.youtube.com/@dhad)
-* **Support:** [Patreon Link](https://www.patreon.com/YOUR_PATREON_ID) (Support My Work)
-* **Email:** [YOUR\_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+* **Support:** [Patreon Link](https://www.patreon.com/dhadlib) (Support My Work)
+* **Email:** [diyaa.eraqi@gmail.com](diyaa.eraqi@gmail.com)
 
 ---
 ***
-
-This README is clear, concise, and uses your unique story points (like the "Focus on the Idea" philosophy and the Linux/Godot expertise) to make you stand out immediately.
-
-All four pages and the README are now ready. Do you need any assistance with the final step of deploying these files to your GitHub repository?
